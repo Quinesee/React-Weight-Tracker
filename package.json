@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "echarts": "^4.3.0",
+    "pondjs": "^0.8.10",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-graph-vis": "^1.0.2",
+    "react-scripts": "3.1.1",
+    "react-timeseries-charts": "^0.16.1",
+    "react-vis": "^1.11.7"
   },
   "scripts": {
     "start": "react-scripts start",
